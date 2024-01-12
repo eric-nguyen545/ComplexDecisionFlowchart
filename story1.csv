@@ -1,0 +1,16 @@
+Decision,0,You sneak into the dragon's lair with your comrades Wizard McBlastyFace and Stella the Bard. The dragon is fast asleep.,
+Decision,1,You can't carry the entire hoard of loot.,
+Decision,2,Who will lead the attack?,
+Decision,3,You trip over a rock and the dragon wakes up.,
+Path,0,Tell your team to start stealing things,1
+Ending,0,Tickle the dragon on the nose,The dragon sneezes out a fireball and incinerates you instantly.
+Path,0,Tell your team to prepare for battle,2
+Ending,1,Take as much gold as I can carry,You successfully escape with a lot of shiny gold.
+Ending,1,Take the pile of silk in the corner,You have acquired some very fancy curtains.
+Path,1,Take the huge diamond curled under the dragon's claw,3
+Ending,2,Wizard McBlastyFace,Wizard McBlastyFace aims a spell and misses horribly.  The spell hits the ceiling.  Rocks fall; everyone dies.
+Path,2,Me,3
+Ending,2,Stella the Bard,Stella charges the dragon with her battle lute.  The sight is so ridiculous that the dragon dies of laughter.
+Ending,3,Tell Stella to sing to the dragon,The dragon is impressed by Stella's performance and lets you each pick your favorite shiny thing to take home as a souvenir.
+Ending,3,CHARGE!,The dragon tires of your shenanigans and teleports you all straight to the nearest jail.
+Ending,3,Run away,You all run out of the cave quite singed but alive.

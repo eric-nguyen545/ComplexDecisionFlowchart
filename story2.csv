@@ -1,0 +1,30 @@
+Decision,0,You're currently at Coffman Memorial Union.  You're facing North.  You need to meet up with your study group in Walter Library.,
+Decision,1,You're standing in front of Kolthoff Hall.,
+Decision,2,You're standing in front of Smith Hall.,
+Decision,3,You're standing in front of Walter Library.,
+Decision,4,You're standing in front of Tate Hall.,
+Decision,5,You're standing in front of Vincent Hall.,
+Decision,6,You're standing in front of Ford Hall.,
+Path,0,Use the bridge on your left to cross Washington Avenue,1
+Path,0,Use the bridge on your right to cross Washington Avenue,6
+Ending,0,Go back into Coffman and take a nap,Naps are great.
+Path,1,Go North,2
+Path,1,Go East,6
+Ending,1,Walk into Kolthoff Hall,You suddenly wake up in your bed at home.  It must have been a dream?
+Path,2,Go North,3
+Path ,2,Go East,5
+Path,2,Go South,1
+Ending,2,Walk into Smith Hall,A chemical leak causes you to start hallucinating that you're in a sitcom.  You won't get much studying done today.
+Ending,3,Walk into Walter Library,You made it to the Library!  Good job.
+Path,3,Do nothing,3
+Ending,3,Leave,You find yourself unable to defy destiny.  You walk into the Library anyway.
+Path,4,Go South,5
+Path,4,Go West,3
+Ending,4,Walk into Tate Hall,"Tate Hall is eerily empty.  You hear a robotic voice echo through the halls: ""The portal will open in Three. Two. One."""
+Path,5,Go North,4
+Path,5,Go South,6
+Path,5,Go West,2
+Ending,5,Walk into Vincent Hall,The maths of Vincent Hall overwhelm you.  Halls twist and fold in upon themselves in 13-dimensional manifolds.  It's giving you a headache.
+Path,6,Go North,5
+Path,6,Go West,1
+Ending,6,Walk into Ford Hall,You step through the doors of Ford Hall only to find yourself in a snowy forest.  The light from a strange looking lamp-post looms in the distance.

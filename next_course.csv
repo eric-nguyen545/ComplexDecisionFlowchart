@@ -1,0 +1,8 @@
+Decision,0,What CSCI course are you taking next?,
+Decision,1,Are you sure? It's intended for students who started with CSCI 1113.,
+Ending,0,CSCI 1933,You'll learn about Java and Data Structures.
+Ending,0,CSCI 2011,You'll learn about Discrete Math.
+Path,0,CSCI 1913,1
+Ending,0,CSCI 2033,You'll learn about Linear Algebra.
+Ending,1,Yes,I can't stop you.
+Ending,1,No,You should probably take CSCI 1933 instead.

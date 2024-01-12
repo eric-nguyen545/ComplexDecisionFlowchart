@@ -1,0 +1,16 @@
+Decision,0,What month is it?,
+Decision,1,Is it a leap year?,
+Ending,0,January,There are 31 days in January.
+Path,0,February,1
+Ending,0,March,There are 31 days in March.
+Ending,0,April,There are 30 days in April.
+Ending,0,May,There are 31 days in May.
+Ending,0,June,There are 30 days in June.
+Ending,0,July,There are 31 days in July.
+Ending,0,August,There are 31 days in August.
+Ending,0,September,There are 30 days in September.
+Ending,0,October,There are 31 days in October.
+Ending,0,November,There are 30 days in November.
+Ending,0,December,There are 31 days in December.
+Ending,1,Yes,There are 29 days in February.
+Ending,1,No,There are 28 days in February.
